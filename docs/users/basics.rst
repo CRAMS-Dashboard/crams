@@ -1,6 +1,6 @@
 
 ================
-Basic User Guide
+User Guide
 ================
 
 Overview
