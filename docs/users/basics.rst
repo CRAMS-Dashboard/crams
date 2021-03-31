@@ -63,7 +63,7 @@ The final subsection, Research Grant Information, is optional and can be used to
 
 
 Section 3
-
+---------
 Section 3 relates to the amount of data that needs to be stored and also to specific information about the preferred storage type. The first textbox should be used to enter the current amount of data that needs to be stored in gigabytes (GB).
 
  If the Request is being lodged for a project that has not yet commenced, the default figure of 0 can be retained or a conservative estimate can be used (the amount can always be increased later). The next step is to select the appropriate storage type, or Storage Product, as each option has advantages and disadvantages and is recommended for different scenarios. 
@@ -76,11 +76,13 @@ Finally, complete the section (optional) by entering the current location of the
 <Insert Application section 3  image   >
 
 Section 4
+---------
 Section 4 relates to data loss and the impact that it would have upon the project or individual. The three questions are optional, so they can be skipped if preferred.
 
 <Insert Application section 4  image   >
 
 Section 5
+---------
 Section 5 details the privacy policy pertaining to the Storage Dashboard and outlines the data that is collected and how it is used. The first two checkboxes need to be ticked before the form can be submitted using the “Submit” button. The form, even if incomplete, can be saved at any time by clicking on “Save As Draft”. After clicking on “Submit” the form will verify that all of the mandatory questions have been completed and, if any errors are detected, the form will highlight them in red. Once the form is complete it can be submitted successfully. 
 
 
@@ -88,6 +90,7 @@ Section 5 details the privacy policy pertaining to the Storage Dashboard and out
 
 
 Requesting More Space and Updating Your Allocation
+--------------------------------------------------
 
 You can update any of your allocations at any time and allocations can even be updated when they have not yet been submitted (drafts). You can change the Collection Title and Collection Description as well as any other aspect of the allocation, including the Data Custodian, Technical Contact and the amount of storage. In order to update an allocation, click on the “Allocations” button in the left menu and then on “My Requests”.
 
@@ -104,6 +107,7 @@ Clicking on “Amend/Extend Allocation”, located at the bottom of the page, wi
 < insert extend a/amend screen>
 
 Using the Dashboard to Monitor Usage
+------------------------------------
 The Collection Custodian Dashboard is the default page that is displayed whenever you log in to the Storage  Dashboard. It contains a list of the allocations that list you as either a Data Custodian or Technical Contact and provides a detailed breakdown of the various storage products that you are using. Allocations can be expanded or collapsed by clicking on the title of the allocation and you can use the dropdown list under “Select a project” to display a single allocation. This is very useful if you have access to a large number of allocations.
 <Storage Dashboard with usage>
 
@@ -111,9 +115,11 @@ The column labelled “Aggregated total” reflects the total amount of storage 
 
 
 Help and Support
+-----------------
 If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage eam will be in contact in order to discuss the issue and work with you to find a solution.
 
 Updating Your Details and Customising the Data Dashboard
+--------------------------------------------------------
 You can update your personal details by clicking on your email address which is located in the top right-hand corner of the page. This will open a new page which may take a few moments to load depending upon how many allocations list you as a Data Custodian or Technical Contact. The top section contains elements such your title, name, email address and phone number. Clicking on the “Update” button will allow you to update your details, with the exception of your email address which is immutable. Clicking on “Update” once again will save any changes you have made.
 
 < insert contact details form>
@@ -121,6 +127,7 @@ You can update your personal details by clicking on your email address which is 
 
 
 Project Membership Management
+-----------------------------
 The Project Membership feature is used to alter the level of access users have to allocations within the Data Dashboard as well as assign specific user roles. It can be accessed by selecting the “My Requests” menu item under “Allocations” and then clicking on the “Memberships” link to the right of an allocation.
 
 < insert project membership form>
@@ -139,6 +146,7 @@ Once the new user has been added, it will appear in the “Current Users” list
 
 
 Frequently Asked Questions
+--------------------------
  
 1) How can I add multiple Data Custodians to an allocation? 
 When creating a new allocation via the “New Request” button, only a single Data Custodian can be added initially. Multiple Data Custodians must be added separately via the Project Membership feature which is possible only after an allocation has been submitted or saved as a draft.
