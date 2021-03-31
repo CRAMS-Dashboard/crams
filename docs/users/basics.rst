@@ -79,7 +79,7 @@ Section 4
 ---------
 Section 4 relates to data loss and the impact that it would have upon the project or individual. The three questions are optional, so they can be skipped if preferred.
 
-<Insert Application section 4  image   >
+.. image:: ../images/new_request_s4.png
 
 Section 5
 ---------
