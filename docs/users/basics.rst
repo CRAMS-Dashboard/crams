@@ -25,6 +25,8 @@ In Section 1, the owner of the data (Data Custodian) and the individual with tec
 
 
 Data Custodians and Technical Contacts are added by clicking on the “Add Data Custodian” or “Add Technical Contact” buttons and then entering a name into the textbox. 
+
+
 .. image:: ../images/new_req_contact_search.png
 
 
