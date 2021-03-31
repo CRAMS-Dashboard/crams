@@ -42,7 +42,7 @@ Section 2
 ---------
 Once the Data Custodian and Technical Contact have been added, Section 2 must be completed. Section 2 should be populated with detailed information about the data, specifically the Collection Title and Collection Description. The title should ideally be short, accurate, unique and relate specifically to the allocation. The Description does not need to be extensive, but should contain information outlining what the data is, how it is produced and how it will be used. Ideally, the information and context should be detailed enough to allow individuals not involved in the specific discipline or field to understand.
 
-.. image:: ../images/new_request_s2,png
+.. image:: ../images/new_request_s2.png
 
 The Sensitive Data Handling section contains two questions that relate to the sensitivity of the data that will be stored within the allocation. If the allocation does not contain any sensitive data (sensitive data includes personally-identifiable datasets, etc) then the first option should be selected. If the allocation does contain sensitive data, the second option should be selected and the provided information links should be accessed in order to provide you with more information about how research data is classified and how to store your data appropriately. 
 
