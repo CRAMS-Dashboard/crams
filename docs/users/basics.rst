@@ -66,7 +66,7 @@ Section 3
 ---------
 Section 3 relates to the amount of data that needs to be stored and also to specific information about the preferred storage type. The first textbox should be used to enter the current amount of data that needs to be stored in gigabytes (GB).
 
- If the Request is being lodged for a project that has not yet commenced, the default figure of 0 can be retained or a conservative estimate can be used (the amount can always be increased later). The next step is to select the appropriate storage type, or Storage Product, as each option has advantages and disadvantages and is recommended for different scenarios. 
+If the Request is being lodged for a project that has not yet commenced, the default figure of 0 can be retained or a conservative estimate can be used (the amount can always be increased later). The next step is to select the appropriate storage type, or Storage Product, as each option has advantages and disadvantages and is recommended for different scenarios. 
 
 The list of storage products and examples of how they are most commonly used can be found by clicking on the “Storage Products” button. Note that more than one storage type can be requested by clicking on “Add Another Storage Product”. 
 
