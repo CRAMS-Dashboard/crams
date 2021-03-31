@@ -1,22 +1,25 @@
-
-# Overview
-
+========
+Overview
+========
 
 The CRAMS Dashboard is a web-based interface that allows researchers to apply for storage  on your organization's research data storage infrastructure, request extensions if more space is required and monitor their usage. 
 New storage applications are lodged as requests which are then submitted, approved and provisioned before being made available for use. Each request is referred to as a “storage allocation” and each allocation has a quota that can be increased if required (subject to approval). Most allocations are lodged to support the storage needs of a specific research project or research group, but allocations for individual research can also be requested.
 
 TBD : Should we mention about HPC Dashboard ?
 
-## Applying for Research Data Storage
+Applying for Research Data Storage
+----------------------------------
 
 Once logged in, from the home page of the Dashboard, click on the “Allocations” button in the left menu and then click on “New Request”.
 
 <Insert Dashboard Image>
 
 The Storage Request Application form is divided into five sections. 
+-------------------------------------------------------------------
 
-### Section 1 
-In Section 1, the owner of the data (Data Custodian) and the individual with technical knowledge of the data (Technical Contact) need to be added. The Data Custodian and Technical Contact can be the same person, and usually are for personal allocations, but for groups or specific projects the Data Custodian is most commonly the CI (Chief Investigator) or the head of the group. The Technical Contact should be an individual that can work with the institutional storage team and ensure that the data is being stored, accessed and used appropriately. More than one Data Custodian or Technical Contact can be added by clicking on “Add Data Custodian” or “Add Technical Contact”. 
+Section 1 
+---------
+In Section 1, the owner of the data (Data Custodian) and the individual with technical knowledge of the data (Technical Contact) need to be added. The Data     Custodian and Technical Contact can be the same person, and usually are for personal allocations, but for groups or specific projects the Data Custodian is most commonly the CI (Chief Investigator) or the head of the group. The Technical Contact should be an individual that can work with the institutional storage team and ensure that the data is being stored, accessed and used appropriately. More than one Data Custodian or Technical Contact can be added by clicking on “Add Data Custodian” or “Add Technical Contact”. 
 
 .. image:: ../images/new_request_s1.png
 
@@ -29,6 +32,7 @@ Data Custodians and Technical Contacts are added by clicking on the “Add Data 
 <Insert Application section 1 contact details image > + Add DC/ technical contact information image
 
 Section 2 
+---------
 Once the Data Custodian and Technical Contact have been added, Section 2 must be completed. Section 2 should be populated with detailed information about the data, specifically the Collection Title and Collection Description. The title should ideally be short, accurate, unique and relate specifically to the allocation. The Description does not need to be extensive, but should contain information outlining what the data is, how it is produced and how it will be used. Ideally, the information and context should be detailed enough to allow individuals not involved in the specific discipline or field to understand.
 
 <Insert Application section 2 Collection details image >
