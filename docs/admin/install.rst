@@ -4,14 +4,17 @@ Installation
 
 The sections below provide a Quick Start guide for getting a basic CRAMS installation up and running. 
 
+Deploying CRAMS via Docker
+--------------------------
+
 Prerequisites
--------------
+~~~~~~~~~~~~~
 - Python 3.8
 - Docker 20+
 - MySQL 5.7 or SQLite3
 
 Setup CRAMS using Docker
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 The quickest way to setup a working CRAMS backend API is to use the docker deployment that will automatically build and install all the packages, setup the python environment and setup nginx to run the service.
 
 You will need to install docker and build/run 2 docker containers, the first one is to setup the mysql database container and the second one is the nginx container that will run CRAMS.
