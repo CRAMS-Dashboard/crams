@@ -16,7 +16,8 @@ In Section 1, the owner of the data (Data Custodian) and the individual with tec
 
 .. image:: ../images/new_request_s1.png
 
-<Insert Application section 1 image >
+
+   Insert Application section 1 image 
 
 
 Data Custodians and Technical Contacts are added by clicking on the “Add Data Custodian” or “Add Technical Contact” buttons and then entering a name into the textbox. If the individual cannot be located, a new contact entry can be added by clicking “Add New Data Custodian” or “Add New Technical Contact”. This will open a new form within the page which should be populated with the relevant information and then submitted by clicking on “Create”. It is important to note that the person lodging the Request will not have the ability to view the future allocation’s storage use through the Dashboard home page, unless they add themselves as a Data Custodian or Technical Contact. If you need to monitor the usage of an allocation, then the best way is to add yourself as an additional Technical Contact.
