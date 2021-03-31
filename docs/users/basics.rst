@@ -85,8 +85,8 @@ Section 5
 ---------
 Section 5 details the privacy policy pertaining to the Storage Dashboard and outlines the data that is collected and how it is used. The first two checkboxes need to be ticked before the form can be submitted using the “Submit” button. The form, even if incomplete, can be saved at any time by clicking on “Save As Draft”. After clicking on “Submit” the form will verify that all of the mandatory questions have been completed and, if any errors are detected, the form will highlight them in red. Once the form is complete it can be submitted successfully. 
 
+.. image:: ../new_request_s5.png
 
-<Insert Application section 5 image   >
 
 
 Requesting More Space and Updating Your Allocation
