@@ -60,6 +60,7 @@ The final subsection, Research Grant Information, is optional and can be used to
 
 .. image:: ../images/new_request_s2_end.png
 
+.. image:: ../images/new_request_addgrant.png
 
 Section 3
 ---------
