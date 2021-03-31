@@ -25,7 +25,10 @@ Section 1
 
   Data Custodians and Technical Contacts are added by clicking on the “Add Data Custodian” or “Add Technical Contact” buttons and then entering a name into the       textbox. If the individual cannot be located, a new contact entry can be added by clicking “Add New Data Custodian” or “Add New Technical Contact”. This will       open a new form within the page which should be populated with the relevant information and then submitted by clicking on “Create”. It is important to note that   the person lodging the Request will not have the ability to view the future allocation’s storage use through the Dashboard home page, unless they add themselves   as a Data Custodian or Technical Contact. If you need to monitor the usage of an allocation, then the best way is to add yourself as an additional Technical       Contact.
 
-<Insert Application section 1 contact details image > + Add DC/ technical contact information image
+.. image:: ../images/new_request_s1
+
+
++ Add DC/ technical contact information image
 
 Section 2 
   Once the Data Custodian and Technical Contact have been added, Section 2 must be completed. Section 2 should be populated with detailed information about the       data, specifically the Collection Title and Collection Description. The title should ideally be short, accurate, unique and relate specifically to the             allocation. The Description does not need to be extensive, but should contain information outlining what the data is, how it is produced and how it will be used.   Ideally, the information and context should be detailed enough to allow individuals not involved in the specific discipline or field to understand.
