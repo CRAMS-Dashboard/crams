@@ -73,7 +73,7 @@ The list of storage products and examples of how they are most commonly used can
 Finally, complete the section (optional) by entering the current location of the data (if any) and entering the current and preferred methods of access. Access methods range from accessing the data locally on a computer or laptop using Mac OSX or Windows to using specific software packages.
 
 
-<Insert Application section 3  image   >
+.. image:: ../images/new_request_s3.png
 
 Section 4
 ---------
