@@ -28,7 +28,12 @@ Data Custodians and Technical Contacts are added by clicking on the “Add Data 
 
 .. image:: ../images/new_req_contact_search.png
 
+
 .. image:: ../images/new_req_add_contacts.png
+
+
+.. image:: ../images/new_request_newcontact.png
+
 
 Section 2 
 ---------
