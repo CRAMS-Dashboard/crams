@@ -21,11 +21,11 @@ The Storage Request Application form is divided into five sections.
 Section 1 
   In Section 1, the owner of the data (Data Custodian) and the individual with technical knowledge of the data (Technical Contact) need to be added. The Data         Custodian and Technical Contact can be the same person, and usually are for personal allocations, but for groups or specific projects the Data Custodian is most   commonly the CI (Chief Investigator) or the head of the group. The Technical Contact should be an individual that can work with the institutional storage team     and ensure that the data is being stored, accessed and used appropriately. More than one Data Custodian or Technical Contact can be added by clicking on “Add       Data Custodian” or “Add Technical Contact”. 
 
-<Insert Application section 1 image >
+
+.. image:: ../images/new_request_s1.png
 
   Data Custodians and Technical Contacts are added by clicking on the “Add Data Custodian” or “Add Technical Contact” buttons and then entering a name into the       textbox. If the individual cannot be located, a new contact entry can be added by clicking “Add New Data Custodian” or “Add New Technical Contact”. This will       open a new form within the page which should be populated with the relevant information and then submitted by clicking on “Create”. It is important to note that   the person lodging the Request will not have the ability to view the future allocation’s storage use through the Dashboard home page, unless they add themselves   as a Data Custodian or Technical Contact. If you need to monitor the usage of an allocation, then the best way is to add yourself as an additional Technical       Contact.
 
-.. image:: ../images/new_request_s1.png
 
 
 + Add DC/ technical contact information image
