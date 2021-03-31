@@ -58,7 +58,7 @@ The next subsection, Electronic Information Classification, relates to the secur
 
 The final subsection, Research Grant Information, is optional and can be used to include information about the grant(s) funding the project that is being undertaken and that will store data in the requested allocation.
 
-.. image:: ../images/ew_request_s2_end.png
+.. image:: ../images/new_request_s2_end.png
 
 
 Section 3
