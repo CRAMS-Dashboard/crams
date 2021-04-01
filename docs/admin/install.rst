@@ -35,7 +35,7 @@ Step 2: Install Node.js and NPM from Browser
 Step 3: Verify Installation
 ----------------------------
 Open a command prompt (or PowerShell), and enter the following:
-> node –v
+ > node –v
 
 The system should display the Node.js version installed on your system. You can do the same for NPM:
 
