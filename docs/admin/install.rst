@@ -45,7 +45,8 @@ The system should display the Node.js version installed on your system. You can 
 Install Node.js® and NPM on Ubuntu
 =================================
 
-To install Node.js and npm, open a terminal and type the following command::
+To install Node.js and npm, open a terminal and type the following command
+::
 
 ~] sudo apt-get install nodejs npm
 
@@ -97,8 +98,8 @@ Verify Node.js and NPM
 Setup CRAMS Frontend
 =====================
 Checkout the CRAMS Frontend source from https://github.com/CRAMS-Dashboard/crams-frontend
-
 ::
+
 ~] git clone https://github.com/CRAMS-Dashboard/crams-frontend.git
 
 Install the required node modules. Under the project root directory
@@ -106,7 +107,6 @@ Install the required node modules. Under the project root directory
 ::
 
 ~] cd crams-frontend
-
 ~] npm install
 
 
