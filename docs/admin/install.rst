@@ -93,7 +93,6 @@ Verify Node.js and NPM
 ~] node -v
 
 ::
-
 ~] npm -v
 
 Setup CRAMS Frontend
@@ -102,7 +101,6 @@ Setup CRAMS Frontend
 Install the required node modules. Under the project root directory
 --------------------------------------------------------------------
 ::
-
 ~] npm install
 
 
@@ -110,8 +108,8 @@ There are 'local', 'dev', 'demo', 'staging', 'qat', 'prod' settings in the Grunt
 
 To run the project locally
 -------------------------
-::
 
+::
 ~] grunt runlocal
 
 To run the project in dev
