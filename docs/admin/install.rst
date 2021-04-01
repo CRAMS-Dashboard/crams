@@ -36,33 +36,35 @@ Step 3: Verify Installation
 ----------------------------
 Open a command prompt (or PowerShell), and enter the following::
 
-> node –v
-Open a command prompt (or PowerShell), and enter the following::
-   > node –v
+~] node –v
 
-The system should display the Node.js version installed on your system. You can do the same for NPM:
-    > npm –v
+The system should display the Node.js version installed on your system. You can do the same for NPM::
+
+~] npm –v
 
 Install Node.js® and NPM on Ubuntu
 =================================
 
-To install Node.js and npm, open a terminal and type the following command:
-    > sudo apt-get install nodejs npm
+To install Node.js and npm, open a terminal and type the following command::
+
+~] sudo apt-get install nodejs npm
 
 
 * Note: some nodejs packages expect the `node` command to be available. Some deb packages of nodejs include this symlink, some do not if not:
-On Ubuntu you can install the nodejs-legacy package to fix this
-    > sudo apt-get install nodejs-legacy
+On Ubuntu you can install the nodejs-legacy package to fix this::
 
-Now we should have both the node and npm commands working:
-    > node -v
+~] sudo apt-get install nodejs-legacy
 
-    > npm -v
+Now we should have both the node and npm commands working::
+
+~] node -v
+
+~] npm -v
 
 
 install grunt-cli globally
---------------------------
-    > npm install -g grunt-cli 
+--------------------------::
+~] npm install -g grunt-cli 
 
 
 Installing Node.js® and NPM on Mac
@@ -74,24 +76,26 @@ The whole process (after you have Homebrew installed) should only take you a few
 Installation Steps
 -------------------
 
-Open the Terminal app and type brew update. This updates Homebrew with a list of the latest version of Node.
-    > brew install node.
+Open the Terminal app and type brew update. This updates Homebrew with a list of the latest version of Node::
+
+~] brew install node.
 
 
 Sit back and wait. Homebrew has to download some files and install them. But that’s it.
 
 Verify Node.js and NPM
------------------------
-    > node -v
+-----------------------::
 
-    > npm -v
+~] node -v
+
+~] npm -v
 
 Setup CRAMS Frontend
 =====================
 
 Install the required node modules. Under the project root directory
---------------------------------------------------------------------
-    > npm install
+--------------------------------------------------------------------::
+npm install
 
 
 There are 'local', 'dev', 'demo', 'staging', 'qat', 'prod' settings in the Gruntfile.js. Modify the 'apiEndpoint' to fit the right crams api backend uri.
