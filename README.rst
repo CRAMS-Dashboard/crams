@@ -17,7 +17,8 @@ CRAMS is mostly written in the `Python programming language <https://www.python.
 Find out more
 -------------
 
-The source code is hosted at https://github.com/CRAMS-Dashboard/CRAMS
+The API source code is hosted at https://github.com/CRAMS-Dashboard/crams-api
+A sample AngularJS Front-end client is hosted at https://github.com/CRAMS-Dashboard/crams-frontend
 
 Documentation at https://crams.readthedocs.org/ includes
 
