@@ -128,9 +128,14 @@ If you encounter any issues with the Storage Dashboard, you can request assistan
 
 Updating Your Details and Customising the Data Dashboard
 --------------------------------------------------------
-You can update your personal details by clicking on your email address which is located in the top right-hand corner of the page. This will open a new page which may take a few moments to load depending upon how many allocations list you as a Data Custodian or Technical Contact. The top section contains elements such your title, name, email address and phone number. Clicking on the “Update” button will allow you to update your details, with the exception of your email address which is immutable. Clicking on “Update” once again will save any changes you have made.
+You can update your personal details by clicking on your email address which is located in the top right-hand corner of the page. This will open a new page 
 
-< insert contact details form>
+.. image:: ../images/update_contact.png
+
+The top section contains elements such your title, name, email address and phone number. Clicking on the “Update” button will allow you to update your details, with the exception of your email address which is immutable. Clicking on “Update” once again will save any changes you have made.
+
+
+.. image:: ../images/contact_form.png
 
 
 
