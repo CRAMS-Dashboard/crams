@@ -60,6 +60,7 @@ Now we should have both the node and npm commands working
 
 ~] node -v
 
+
 ::
 ~] npm -v
 
@@ -90,7 +91,9 @@ Sit back and wait. Homebrew has to download some files and install them. But tha
 Verify Node.js and NPM
 -----------------------
 ::
+
 ~] node -v
+
 
 ::
 ~] npm -v
@@ -101,6 +104,7 @@ Setup CRAMS Frontend
 Install the required node modules. Under the project root directory
 --------------------------------------------------------------------
 ::
+
 ~] npm install
 
 
