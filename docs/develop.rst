@@ -8,8 +8,7 @@ Development
    :maxdepth: 2
 
    dev/architecture
-   ../admin/authentication
-   dev/authorisation
+   
    dev/api
    dev/tests
 
