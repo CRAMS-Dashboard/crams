@@ -88,8 +88,8 @@ To so,
 
 Only select the storage product/s that have been provisioned at infrastructure, enter provision ids for each of them, provide provision notes ( optional) and click the provision button.
 
-.. image:: ..images/partial_prov1.png
+.. image:: ../images/partial_prov1.png
 
-.. image:: ..images/partial_prov2.png
+.. image:: ../images/partial_prov2.png
 
-.. image:: ..images/partial_prov3.png
+.. image:: ../images/partial_prov3.png
