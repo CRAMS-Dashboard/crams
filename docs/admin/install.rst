@@ -93,12 +93,19 @@ Verify Node.js and NPM
 ~] node -v
 ~] npm -v
 
+
 Setup CRAMS Frontend
 =====================
+Checkout the CRAMS Frontend source from https://github.com/CRAMS-Dashboard/crams-frontend
+
+::
+~] git clone https://github.com/CRAMS-Dashboard/crams-frontend.git
 
 Install the required node modules. Under the project root directory
 --------------------------------------------------------------------
 ::
+
+~] cd crams-frontend
 
 ~] npm install
 
