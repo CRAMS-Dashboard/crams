@@ -3,12 +3,20 @@ CRAMS
 
 Overview
 ---------
-The Monash University developed Cloud Resource Allocation Management System (CRAMS) is for resource allocation, instantiation and to report resource utilisation across Research Data Storage,  High Performance Computing Platform (HPC) and Research Computing Cloud.   CRAMS not only enables researchers to request access to resources across  research storage, cloud and  HPC allocations, it also collects project details across all allocations over time to form a rich metadata registry. 
+The Monash University-eResearch Centre developed Cloud Resource Allocation Management System (CRAMS) is for resource allocation, instantiation and to report resource utilisation across Research Data Storage,  High Performance Computing Platform (HPC) and Research Computing Cloud. CRAMS provides an effective self service mechanism for researchers and research facilities  to request cloud resources, monitor usage and manage own allocations.  CRAMS further enables faster processing of resource allocation requests and provisioning of resources to end users. CRAMS reporting will enable effective strategic decisions on resource planning across Monash Research Data Storage, High Performance Computing Platform and Research Computing Cloud to address research needs better.    
 
-Key Features for Users
+
+Key Features for Users 
 ----------------------
-CRAMS provides an effective self service mechanism for researchers and research facilities  to request cloud resources, monitor usage and manage own allocations.  CRAMS further enables faster processing of resource allocation requests and provisioning of resources to end users. CRAMS reporting will enable effective strategic decisions on resource planning across Monash Research Data Storage, High Performance Computing Platform and Research Computing Cloud to address research needs better. 
+Current CRAMS Open-source version offers following features
 
+- Authentication
+- Project Request
+- Request Approval
+- Resource Provision
+- Project Membership Management
+- User Roles and Contact Management
+- User Dashboard
 
 
 CRAMS Developments
