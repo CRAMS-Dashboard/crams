@@ -6,6 +6,7 @@ Configuration and Administration
   :maxdepth: 2
 
   admin/install
+  admin/module
   admin/authentication
   admin/database
  
