@@ -9,5 +9,6 @@ Configuration and Administration
   admin/module
   admin/authentication
   admin/database
+  admin/user_roles_setup.rst
  
  
