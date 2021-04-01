@@ -110,7 +110,7 @@ Install the required node modules. Under the project root directory
 ~] npm install
 
 
-There are 'local', 'dev', 'demo', 'staging', 'qat', 'prod' settings in the Gruntfile.js. Modify the 'apiEndpoint' to fit the right crams api backend url.
+There are ``local``, ``dev``, ``demo``, ``staging``, ``qat``, ``prod`` settings in the ``Gruntfile.js``. Modify the ``apiEndpoint`` to fit the right crams api backend url.
 
 To run the project locally
 -------------------------
