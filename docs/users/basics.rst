@@ -118,6 +118,9 @@ Help and Support
 -----------------
 If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage eam will be in contact in order to discuss the issue and work with you to find a solution.
 
+.. image:: ../images/support_ticket.png
+
+
 Updating Your Details and Customising the Data Dashboard
 --------------------------------------------------------
 You can update your personal details by clicking on your email address which is located in the top right-hand corner of the page. This will open a new page which may take a few moments to load depending upon how many allocations list you as a Data Custodian or Technical Contact. The top section contains elements such your title, name, email address and phone number. Clicking on the “Update” button will allow you to update your details, with the exception of your email address which is immutable. Clicking on “Update” once again will save any changes you have made.
@@ -130,17 +133,17 @@ Project Membership Management
 -----------------------------
 The Project Membership feature is used to alter the level of access users have to allocations within the Data Dashboard as well as assign specific user roles. It can be accessed by selecting the “My Requests” menu item under “Allocations” and then clicking on the “Memberships” link to the right of an allocation.
 
-< insert project membership form>
+.. image:: ../images/proj_membership_view.png
 
 The Memberships page will display a list of all accounts (users) associated with the allocation and their respective roles.
 
 
-<Project membership page>
+.. image:: ../images/adduser_page.png
 
 
 Clicking on the “Add User” button will open a new window which will allow you to search for specific users by name. The appropriate user should be selected using the radio button to the left of the user’s name and the “User Role” dropdown box should be used to select the preferred role. The user can then be added by clicking on the “Add User” button. Note that four roles are available: Data Custodian, Technical Contact, Data Provider and Observer. The latter two roles are mainly used for administrative purposes, therefore Data Custodian and Technical Contact are used in almost all cases.
 
-< Add user screen> 
+.. image:: ../images/adduser1.png
 
 Once the new user has been added, it will appear in the “Current Users” list. Users listed on the page can be removed at any time by clicking on the “Remove” link.
 
