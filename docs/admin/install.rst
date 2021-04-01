@@ -55,15 +55,18 @@ On Ubuntu you can install the nodejs-legacy package to fix this::
 
 ~] sudo apt-get install nodejs-legacy
 
-Now we should have both the node and npm commands working::
+Now we should have both the node and npm commands working
+::
 
 ~] node -v
 
+::
 ~] npm -v
 
 
 install grunt-cli globally
---------------------------::
+--------------------------
+::
 ~] npm install -g grunt-cli 
 
 
@@ -76,7 +79,8 @@ The whole process (after you have Homebrew installed) should only take you a few
 Installation Steps
 -------------------
 
-Open the Terminal app and type brew update. This updates Homebrew with a list of the latest version of Node::
+Open the Terminal app and type brew update. This updates Homebrew with a list of the latest version of Node
+::
 
 ~] brew install node.
 
@@ -112,27 +116,39 @@ To run the project locally
 
 To run the project in dev
 --------------------------
-    > grunt rundev
+::
+ 
+~] grunt rundev
 
 To run the project in demo
 --------------------------
-    > grunt rundemo
+::
+ 
+~] grunt rundemo
 
 To run the project in staging
 --------------------------
-    > grunt runstaging
+::
+ 
+~] grunt runstaging
 
 To run the project in qat
 -------------------------- 
-    > grunt runqat 
+::
+ 
+~] grunt runqat 
 
 To run the project in prod
 --------------------------
-    > grunt runprod
+::
+ 
+~] grunt runprod
 
 To run test
 -------------------------
-    > grunt utest
+::
+ 
+~] grunt utest
  
 
 
