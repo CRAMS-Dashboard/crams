@@ -1,7 +1,9 @@
-========
-Overview
-========
+==========
+User Guide
+==========
 
+Overview
+--------
 The CRAMS Dashboard is a web-based interface that allows researchers to apply for storage  on your organization's research data storage infrastructure, request extensions if more space is required and monitor their usage. 
 New storage applications are lodged as requests which are then submitted, approved and provisioned before being made available for use. Each request is referred to as a “storage allocation” and each allocation has a quota that can be increased if required (subject to approval). Most allocations are lodged to support the storage needs of a specific research project or research group, but allocations for individual research can also be requested.
 
