@@ -8,7 +8,7 @@ The Monash University-eResearch Centre developed Cloud Resource Allocation Manag
 
 Key Features for Users 
 ----------------------
-Current CRAMS Open-source version offers following features
+Current CRAMS Open-source version offers following key features
 
 - Authentication
 - Project Request
