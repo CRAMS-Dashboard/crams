@@ -31,7 +31,7 @@ Documentation at https://crams.readthedocs.org/ includes
 
 Known deployments
 -----------------
-- **Data-Dashboardn**: https://datadashboard.erc.monash.edu/
+- **Data-Dashboard**: https://datadashboard.erc.monash.edu/
 
 
 Releases
