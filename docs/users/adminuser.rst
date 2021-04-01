@@ -9,7 +9,7 @@ Storage Request Allocation Approvals, Edit and Decline
 
 Select the “Resource Approver”  from the Select view dropdown located in the left top corner.
 
-.. image:: ../images/approver view1.png
+.. image:: ../images/approver_view1.png
 
 “Waiting For Approval” option is selected by default from the Approval menu and will display the Allocation Requests with pending approval.
 
