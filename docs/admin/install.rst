@@ -84,9 +84,11 @@ Open the Terminal app and type brew update. This updates Homebrew with a list of
 Sit back and wait. Homebrew has to download some files and install them. But that’s it.
 
 Verify Node.js and NPM
------------------------::
-
+-----------------------
+::
 ~] node -v
+
+::
 
 ~] npm -v
 
@@ -94,15 +96,19 @@ Setup CRAMS Frontend
 =====================
 
 Install the required node modules. Under the project root directory
---------------------------------------------------------------------::
-npm install
+--------------------------------------------------------------------
+::
+
+~] npm install
 
 
 There are 'local', 'dev', 'demo', 'staging', 'qat', 'prod' settings in the Gruntfile.js. Modify the 'apiEndpoint' to fit the right crams api backend uri.
 
 To run the project locally
 -------------------------
-    > grunt runlocal
+::
+
+~] grunt runlocal
 
 To run the project in dev
 --------------------------
