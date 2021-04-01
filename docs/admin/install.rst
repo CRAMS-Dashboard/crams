@@ -59,15 +59,13 @@ Now we should have both the node and npm commands working
 ::
 
 ~] node -v
-
-
-::
 ~] npm -v
 
 
 install grunt-cli globally
 --------------------------
 ::
+
 ~] npm install -g grunt-cli 
 
 
@@ -93,9 +91,6 @@ Verify Node.js and NPM
 ::
 
 ~] node -v
-
-
-::
 ~] npm -v
 
 Setup CRAMS Frontend
@@ -112,8 +107,8 @@ There are 'local', 'dev', 'demo', 'staging', 'qat', 'prod' settings in the Grunt
 
 To run the project locally
 -------------------------
-
 ::
+
 ~] grunt runlocal
 
 To run the project in dev
