@@ -45,6 +45,5 @@ Usage
 
 ``python manage.py createsuperuser``
 
-Backup
-------
+For more on creating users and configuring them to access the django admin see here: :ref:`setup-user`
 
