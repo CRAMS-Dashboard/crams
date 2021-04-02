@@ -39,35 +39,14 @@ Documentation at https://crams.readthedocs.org/ includes
 
 
 
-Known deployments
------------------
+Current production deployments
+------------------------------
 CRAMS is a production system deployed at Monash University that is meeting key milestones of its transformation-driven road map. 
 
 
 - **Data-Dashboard** https://datadashboard.erc.monash.edu/
 
 
-Releases
---------
-
-The default branch on GitHub is ``develop``. This is the cutting edge
-development version. Please DO NOT use this in production, as it may have bugs
-that eat your data.
-
-The ``master`` branch is the current stable release with all the latest bug fixes
-included. It will move to newer versions automatically. Follow this branch
-if you want to stay up to date in a production environment.
-
-Each version has its own branch named by version number. At the time of
-writing, the latest release is ``x.x.x``, tagged from the ``series-x.x``
-branch. Follow this branch for your production installation and
-perform version upgrades manually.
-
-Each bug fix or set of fixes bumps the minor version and each new release is
-tagged, eg. ``x.x.x``. Use tagged releases if you are paranoid about changes to
-the code you have not tested yourself.
-
-To follow development, please see the contributing section below.
 
 
 Reporting Bugs
