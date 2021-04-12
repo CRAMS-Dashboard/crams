@@ -101,24 +101,24 @@ You can update any of your allocations at any time and allocations can even be u
 A new page with a list of your allocations should be displayed and you can open an allocation record by clicking on the title of the allocation. Alternatively, you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.
 
 
-< include my request list view with ammend image>
+< include my request list view with amend image>
 
 Clicking on “Amend/Extend Allocation”, located at the bottom of the page, will open the allocation for editing which can then be updated as needed. See Section #1 of this guide (Applying for Research Data Storage) for more information.
 
 
-< insert extend ammend image>
+< insert extend amend image>
 
 Using the Dashboard to Monitor Usage
 ------------------------------------
 The Collection Custodian Dashboard is the default page that is displayed whenever you log in to the Storage  Dashboard. It contains a list of the allocations that list you as either a Data Custodian or Technical Contact and provides a detailed breakdown of the various storage products that you are using. Allocations can be expanded or collapsed by clicking on the title of the allocation and you can use the dropdown list under “Select a project” to display a single allocation. This is very useful if you have access to a large number of allocations.
 <Storage Dashboard with usage image>
 
-The column labelled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
+The column labeled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
 
 
 Help and Support
 -----------------
-If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage eam will be in contact in order to discuss the issue and work with you to find a solution.
+If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage team will be in contact in order to discuss the issue and work with you to find a solution.
 
 .. image:: ../images/support_ticket.png
    :height: 100px

@@ -6,7 +6,7 @@ Admin User Guide
 Storage Request Allocation Approvals, Edit and Decline
 ------------------------------------------------------
 
-Once a resouce request is submitted by a user, it needs to be approved by Approver or Service Administrator.
+Once a resource request is submitted by a user, it needs to be approved by Approver or Service Administrator.
 
 Select the “Resource Approver”  from the Select view dropdown located in the left top corner.
 
@@ -98,7 +98,7 @@ Only select the storage product/s that have been provisioned at infrastructure, 
 
 Service Administrator Capabilities
 ----------------------------------
-Service Administrator role allows to view all project requests, ammend requests, extend requests, approve and provision. In addition to that the service adminitsrtor can manage the project membership of any project, manage oraganizations and contacts.
+Service Administrator role allows to view all project requests, amend requests, extend requests, approve and provision. In addition to that the service administrator can manage the project membership of any project, manage organizations and contacts.
 
 
 View all Project Requests
@@ -106,7 +106,7 @@ View all Project Requests
 .. image:: ../images/admin_allrequests.png
 
 
-Add new oragnization
+Add new organization
 --------------------
 .. image:: ../images/orgpage.png
 
