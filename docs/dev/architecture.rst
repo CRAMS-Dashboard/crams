@@ -10,7 +10,7 @@ This page describes the architecture of CRAMS.
 
 
 Web Server
-  MyTardis is typically deployed with the standard
+  CRAMS is typically deployed with the standard
   `Nginx <http://nginx.org>`_ +
   `Gunicorn <http://gunicorn.org>`_ +
   `Django <http://www.djangoproject.com/>`_ +
