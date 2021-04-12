@@ -7,7 +7,7 @@ Overview
 The CRAMS Dashboard is a web-based interface that allows researchers to apply for storage  on your organization's research data storage infrastructure, request extensions if more space is required and monitor their usage. 
 New storage applications are lodged as requests which are then submitted, approved and provisioned before being made available for use. Each request is referred to as a “storage allocation” and each allocation has a quota that can be increased if required (subject to approval). Most allocations are lodged to support the storage needs of a specific research project or research group, but allocations for individual research can also be requested.
 
-TBD : Should we mention about HPC Dashboard ?
+
 
 Applying for Research Data Storage
 ----------------------------------
@@ -96,22 +96,22 @@ Requesting More Space and Updating Your Allocation
 
 You can update any of your allocations at any time and allocations can even be updated when they have not yet been submitted (drafts). You can change the Collection Title and Collection Description as well as any other aspect of the allocation, including the Data Custodian, Technical Contact and the amount of storage. In order to update an allocation, click on the “Allocations” button in the left menu and then on “My Requests”.
 
-< my request dashboard view>
+< include my request dashboard view image >
 
 A new page with a list of your allocations should be displayed and you can open an allocation record by clicking on the title of the allocation. Alternatively, you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.
 
 
-< my request lsi view with amend highlighted>
+< include my request list view with ammend image>
 
 Clicking on “Amend/Extend Allocation”, located at the bottom of the page, will open the allocation for editing which can then be updated as needed. See Section #1 of this guide (Applying for Research Data Storage) for more information.
 
 
-< insert extend a/amend screen>
+< insert extend ammend image>
 
 Using the Dashboard to Monitor Usage
 ------------------------------------
 The Collection Custodian Dashboard is the default page that is displayed whenever you log in to the Storage  Dashboard. It contains a list of the allocations that list you as either a Data Custodian or Technical Contact and provides a detailed breakdown of the various storage products that you are using. Allocations can be expanded or collapsed by clicking on the title of the allocation and you can use the dropdown list under “Select a project” to display a single allocation. This is very useful if you have access to a large number of allocations.
-<Storage Dashboard with usage>
+<Storage Dashboard with usage image>
 
 The column labelled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
 
