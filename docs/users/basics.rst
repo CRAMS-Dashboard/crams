@@ -113,7 +113,8 @@ See Section #1 of this guide (Applying for Research Data Storage) for more infor
 Using the Dashboard to Monitor Usage
 ------------------------------------
 The Collection Custodian Dashboard is the default page that is displayed whenever you log in to the Storage  Dashboard. It contains a list of the allocations that list you as either a Data Custodian or Technical Contact and provides a detailed breakdown of the various storage products that you are using. Allocations can be expanded or collapsed by clicking on the title of the allocation and you can use the dropdown list under “Select a project” to display a single allocation. This is very useful if you have access to a large number of allocations.
-<Storage Dashboard with usage image>
+
+.. image:: ../images/dashboardview3.png
 
 The column labelled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
 
