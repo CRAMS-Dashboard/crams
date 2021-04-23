@@ -14,7 +14,7 @@ Applying for Research Data Storage
 
 Once logged in, from the home page of the Dashboard, click on the “Allocations” button in the left menu and then click on “New Request”.
 
-<Insert Dashboard Image>
+.. image:: ../images/dashboardview1.png
 
 The Storage Request Application form is divided into five sections. 
 -------------------------------------------------------------------
