@@ -142,6 +142,7 @@ If you encounter any issues with the Storage Dashboard, you can request assistan
    :align: right
 
 
+
 Updating Your Details and Customising the Data Dashboard
 --------------------------------------------------------
 You can update your personal details by clicking on your email address which is located in the top right-hand corner of the page. This will open a new page 
