@@ -135,12 +135,7 @@ Help and Support
 If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage eam will be in contact in order to discuss the issue and work with you to find a solution.
 
 .. image:: ../images/support_ticket.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
-
+ 
 
 
 Updating Your Details and Customising the Data Dashboard
