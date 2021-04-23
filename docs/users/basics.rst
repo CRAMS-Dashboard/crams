@@ -105,8 +105,8 @@ A new page with a list of your allocations should be displayed and you can open 
 
 Clicking on “Amend/Extend Allocation”, located at the bottom of the page, will open the allocation for editing which can then be updated as needed. See Section #1 of this guide (Applying for Research Data Storage) for more information.
 
+.. image:: ../images/allocation_extention.png
 
-< insert extend ammend image>
 
 Using the Dashboard to Monitor Usage
 ------------------------------------
