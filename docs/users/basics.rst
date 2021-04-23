@@ -118,6 +118,11 @@ The Collection Custodian Dashboard is the default page that is displayed wheneve
 
 The column labelled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
 
+Below each of the storage products is a button labelled “History” which displays a detailed graph of the allocation’s data usage from the date that the allocation was provisioned. Using the mouse to hover over the lines in the graph will display the amount of storage consumed at that particular point in time. The “Download CSV” button will allow you to download a CSV file for use in applications such as Excel among others and is primarily used to display more detailed figures and for reporting and storage planning.
+
+The colours presented in the pie charts are defined in the top-right corner above the graphs. They show, from left-to-right, the amount of disk capacity being used, the amount of tape capacity being used, the amount of data that exceeds the current storage quota, the amount of storage available and storage allocations that have not been provided.
+
+The “Cost View” button is used to display the storage cost of an allocation. Please note that the cost view does NOT mean that you will be charged for the storage you use; RDS storage is free for Monash researchers. The costs provided are included primarily for grants because the indicative storage costs of a particular project may need to be considered and the costs may also be used by Monash faculties for internal planning and projections.
 
 Help and Support
 -----------------
