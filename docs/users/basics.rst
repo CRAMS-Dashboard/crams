@@ -96,7 +96,7 @@ Requesting More Space and Updating Your Allocation
 
 You can update any of your allocations at any time and allocations can even be updated when they have not yet been submitted (drafts). You can change the Collection Title and Collection Description as well as any other aspect of the allocation, including the Data Custodian, Technical Contact and the amount of storage. In order to update an allocation, click on the “Allocations” button in the left menu and then on “My Requests”.
 
-< include my request dashboard view image >
+.. image:: ../images/dashboardview1.png
 
 A new page with a list of your allocations should be displayed and you can open an allocation record by clicking on the title of the allocation. Alternatively, you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.
 
