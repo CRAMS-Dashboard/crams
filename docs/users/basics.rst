@@ -100,8 +100,8 @@ You can update any of your allocations at any time and allocations can even be u
 
 A new page with a list of your allocations should be displayed and you can open an allocation record by clicking on the title of the allocation. Alternatively, you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.
 
+.. image:: ../images/myrequestlist.png
 
-< include my request list view with ammend image>
 
 Clicking on “Amend/Extend Allocation”, located at the bottom of the page, will open the allocation for editing which can then be updated as needed. See Section #1 of this guide (Applying for Research Data Storage) for more information.
 
