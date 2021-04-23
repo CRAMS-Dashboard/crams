@@ -128,7 +128,7 @@ The colours presented in the pie charts are defined in the top-right corner abov
 
 The “Cost View” button is used to display the storage cost of an allocation. 
 
-.. image:: ../images/dashboard_costview
+.. image:: ../images/dashboard_costview.png
 
 Help and Support
 -----------------
