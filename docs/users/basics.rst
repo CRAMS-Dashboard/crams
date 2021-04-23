@@ -98,14 +98,16 @@ You can update any of your allocations at any time and allocations can even be u
 
 .. image:: ../images/dashboardview2.png
 
-A new page with a list of your allocations should be displayed and you can open an allocation record by clicking on the title of the allocation. Alternatively, you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.
+A new page with a list of your allocations should be displayed and you can click on the “Amend/Extend allocation” link to the right of the relevant allocation.  Alternatively,you can open an allocation record by clicking on the title of the allocation 
 
 .. image:: ../images/myrequestlist.png
 
+Allocotaion quota can be changed as indicated below. 
 
-Clicking on “Amend/Extend Allocation”, located at the bottom of the page, will open the allocation for editing which can then be updated as needed. See Section #1 of this guide (Applying for Research Data Storage) for more information.
+.. image:: ../images/allocation_quotachanges.png
 
-.. image:: ../images/allocation_extention.png
+See Section #1 of this guide (Applying for Research Data Storage) for more information.
+
 
 
 Using the Dashboard to Monitor Usage
