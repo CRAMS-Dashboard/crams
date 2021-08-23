@@ -116,7 +116,7 @@ The Collection Custodian Dashboard is the default page that is displayed wheneve
 
 .. image:: ../images/dashboardview3.png
 
-The column labelled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
+The column labeled “Aggregated total” reflects the total amount of storage being used across all storage products, each of which is displayed in its own column to the right. The other five columns refer to specific storage products:
 
 Below each of the storage products is a button labelled “History” which displays a detailed graph of the allocation’s data usage from the date that the allocation was provisioned. Using the mouse to hover over the lines in the graph will display the amount of storage consumed at that particular point in time. The “Download CSV” button will allow you to download a CSV file for use in applications such as Excel among others and is primarily used to display more detailed figures and for reporting and storage planning.
 
@@ -132,7 +132,7 @@ The “Cost View” button is used to display the storage cost of an allocation.
 
 Help and Support
 -----------------
-If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage eam will be in contact in order to discuss the issue and work with you to find a solution.
+If you encounter any issues with the Storage Dashboard, you can request assistance by clicking on the “Support Request” link which is located in the top right-hand corner. This will open up a new window in which you can enter a title and a brief description of the problem. This will generate a support ticket and you will receive email confirmation once it has been lodged. Once a ticket has been created, a member of the storage team will be in contact in order to discuss the issue and work with you to find a solution.
 
 .. image:: ../images/support_ticket.png
  
